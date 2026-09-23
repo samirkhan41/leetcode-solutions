@@ -8,6 +8,7 @@ A collection of my LeetCode solutions covering Data Structures, Algorithms, and 
 | ------- |
 | [0007-reverse-integer](https://github.com/samirkhan41/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/samirkhan41/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/samirkhan41/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/samirkhan41/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -18,4 +19,12 @@ A collection of my LeetCode solutions covering Data Structures, Algorithms, and 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/samirkhan41/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/samirkhan41/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/samirkhan41/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/samirkhan41/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
