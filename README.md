@@ -14,6 +14,7 @@ A collection of my LeetCode solutions covering Data Structures, Algorithms, and 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/samirkhan41/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/samirkhan41/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -33,6 +34,7 @@ A collection of my LeetCode solutions covering Data Structures, Algorithms, and 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/samirkhan41/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/samirkhan41/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -56,4 +58,8 @@ A collection of my LeetCode solutions covering Data Structures, Algorithms, and 
 | ------- |
 | [0002-add-two-numbers](https://github.com/samirkhan41/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/samirkhan41/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/samirkhan41/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
