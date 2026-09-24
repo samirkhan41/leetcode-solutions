@@ -37,6 +37,7 @@ A collection of my LeetCode solutions covering Data Structures, Algorithms, and 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samirkhan41/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/samirkhan41/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/samirkhan41/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of my LeetCode solutions covering Data Structures, Algorithms, and 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/samirkhan41/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/samirkhan41/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
