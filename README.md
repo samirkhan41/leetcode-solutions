@@ -3,6 +3,52 @@ A collection of my LeetCode solutions covering Data Structures, Algorithms, and 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+# 🧠 LeetCode Solutions
+
+A collection of my **LeetCode solutions** focused on Data Structures, Algorithms, and problem-solving techniques.
+
+This repository documents my **DSA practice journey**, including the approaches, patterns, and concepts I learn while solving problems. I use this repository to continuously improve my **algorithmic thinking, coding skills, and technical interview preparation**.
+
+## 🎯 Goals
+
+* Strengthen Data Structures & Algorithms fundamentals
+* Learn and apply common DSA patterns
+* Improve problem-solving and logical thinking
+* Prepare for technical interviews and placements
+* Maintain a consistent record of my coding journey
+
+## 💻 Language
+
+* **C++**
+
+## 📚 Topics
+
+The repository currently covers topics such as:
+
+* Arrays
+* Strings
+* Linked Lists
+* Hash Tables
+* Stack & Queue
+* Binary Search
+* Two Pointers
+* Sliding Window
+* Recursion
+* Bit Manipulation
+* Greedy Algorithms
+* Divide & Conquer
+* And more as I progress...
+
+---
+
+<!---LeetCode Topics Start-->
+
+<!-- Keep the automatically generated LeetCode Topics section below -->
+
+<!---LeetCode Topics End-->
+
+
+
 ## Math
 |  |
 | ------- |
